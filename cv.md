@@ -35,4 +35,4 @@ I'm self-taught and I get my knowledge from:
 ## Languages  
 
 1. Polish (native)
-2. English (intermediate / documentation reading and )
+2. English (intermediate)
