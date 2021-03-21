@@ -26,7 +26,7 @@ All my private projects you can find at [github](https://github.com/danielkoban)
 
 ## Education
 
-I'm self-taught and I get my knowledge from:
+I am self-taught and I get my knowledge from:
 * online courses 
 * articles 
 * books 
